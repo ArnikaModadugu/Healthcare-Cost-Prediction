@@ -1,4 +1,4 @@
-# <span style="font-size:larger;"> Healthcare Cost Prediction Project Summary </span>
+## <span style="font-size:larger;"> Healthcare Cost Prediction Project Summary </span>
 ## <span style="font-size:larger;"> Overview: </span>
 This project aims to predict healthcare costs for individuals based on various demographic and lifestyle factors using statistical analysis techniques. By analyzing a comprehensive dataset sourced from Kaggle, encompassing attributes such as age, BMI, smoking status, and region, the project explores the relationships between these variables and medical insurance charges.
 
