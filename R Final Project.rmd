@@ -1,5 +1,5 @@
 ---
-title: "Medical Cost Prediction Project"
+title: "Medical Cost Prediction"
 output:
   word_document: default
   html_document: default
